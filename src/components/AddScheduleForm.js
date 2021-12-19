@@ -133,6 +133,7 @@ export function AddScheduleForm(props) {
           <ReactDatePicker
             selected={startDate}
             onChange={(date) => setStartDate(date)}
+            dateFormat="yyyy.MM.dd(eee)"
             placeholderText="시작일"
             className="datePicker"
           />
@@ -140,6 +141,7 @@ export function AddScheduleForm(props) {
           <ReactDatePicker
             selected={endDate}
             onChange={(date) => setEndDate(date)}
+            dateFormat="yyyy.MM.dd(eee)"
             placeholderText="종료일"
             className="datePicker"
           />
