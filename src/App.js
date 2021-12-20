@@ -7,12 +7,12 @@ import { CalendarBox } from "./components/CalendarBox";
 
 function App() {
   return (
-    <BrowserRouter basename="/react-decorate-with-stickers">
-      <StiProvider>
+    <StiProvider>
+      <BrowserRouter basename="/react-decorate-with-stickers">
         <GlobalStyles />
         <CalendarBox />
-      </StiProvider>
-    </BrowserRouter>
+      </BrowserRouter>
+    </StiProvider>
   );
 }
 
