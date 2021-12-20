@@ -4,8 +4,8 @@
 
 ## 🛠️ 사용기술
 
-React
-Stipop Sticker API
+- React
+- Stipop Sticker API
 
 ## ⁉ 주요기능
 
