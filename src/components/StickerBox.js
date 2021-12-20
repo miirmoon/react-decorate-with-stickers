@@ -68,6 +68,7 @@ export function StikerBox() {
         alert(
           "스티커를 불러오는 중 오류가 발생했습니다. 다시 시도하여 주시기 바랍니다."
         );
+        window.location.replace("/");
       }
     );
   };
@@ -91,6 +92,7 @@ export function StikerBox() {
         alert(
           "스티커를 불러오는 중 오류가 발생했습니다. 다시 시도하여 주시기 바랍니다."
         );
+        window.location.replace("/");
       }
     );
   };
