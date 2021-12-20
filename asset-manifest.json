@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-decorate-with-stickers/static/css/main.752f8844.css",
-    "main.js": "/react-decorate-with-stickers/static/js/main.7fd5c517.js",
+    "main.js": "/react-decorate-with-stickers/static/js/main.5aa96685.js",
     "static/media/GowunDodum-Regular.ttf": "/react-decorate-with-stickers/static/media/GowunDodum-Regular.af5304a39dc307a26989.ttf",
     "index.html": "/react-decorate-with-stickers/index.html",
     "main.752f8844.css.map": "/react-decorate-with-stickers/static/css/main.752f8844.css.map",
-    "main.7fd5c517.js.map": "/react-decorate-with-stickers/static/js/main.7fd5c517.js.map"
+    "main.5aa96685.js.map": "/react-decorate-with-stickers/static/js/main.5aa96685.js.map"
   },
   "entrypoints": [
     "static/css/main.752f8844.css",
-    "static/js/main.7fd5c517.js"
+    "static/js/main.5aa96685.js"
   ]
 }
