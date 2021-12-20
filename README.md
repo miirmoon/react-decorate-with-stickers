@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Decorate With Stickers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+캘린더를 스티커로 꾸며보는 웹사이트입니다.
 
 ## Available Scripts
 
