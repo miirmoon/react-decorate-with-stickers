@@ -1,6 +1,6 @@
 import React from "react";
 import "./fonts/font.css";
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { GlobalStyles } from "./styles/GlobalStyles";
 import { StiProvider } from "./contexts";
 import { CalendarBox } from "./components/CalendarBox";
@@ -10,7 +10,10 @@ function App() {
     <StiProvider>
       <BrowserRouter basename="/react-decorate-with-stickers">
         <GlobalStyles />
-        <CalendarBox />
+
+        <Routes>
+          <Route path="/" element={<CalendarBox />} />
+        </Routes>
       </BrowserRouter>
     </StiProvider>
   );
