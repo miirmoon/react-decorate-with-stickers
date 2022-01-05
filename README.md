@@ -1,6 +1,7 @@
 # Decorate With Stickers
 
 🙌 캘린더를 스티커로 꾸며보는 웹사이트입니다.
+https://miirmoon.github.io/react-decorate-with-stickers/
 
 ## 🛠️ 사용기술
 
