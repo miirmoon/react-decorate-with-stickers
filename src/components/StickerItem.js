@@ -2,7 +2,7 @@
  * - 스티커 위치 이동 및 크기 조절: react-rnd 라이브러리 이용
  */
 
-import { useContext, useState } from "react/cjs/react.development";
+import { useContext, useState } from "react";
 import styled from "styled-components";
 import { StiContext } from "../contexts";
 import { ADD_Sticker } from "../contexts/actionTypes";
